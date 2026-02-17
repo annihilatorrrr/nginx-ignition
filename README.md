@@ -22,8 +22,8 @@
      timeouts, log level, etc).
 - 🔐 **SSL certificates:** Automated Let's Encrypt (ACME), self-signed, or bring your own certificates.
 - 🐳 **Native integrations:** First-class support for Docker, Docker Swarm, Tailscale VPNs, and TrueNAS.
-- 🛡️ **Security:** Secure access with attribute-based access control (ABAC) and per-host access lists using basic 
-     authentication and source IP checks.
+- 🛡️ **Security:** Secure access with two-factor authentication, attribute-based access control (ABAC) and per-host 
+     access lists using basic authentication and source IP checks.
 - 📋 **Logging:** Detailed access and error logs for the server and each virtual host, with built-in automatic log 
      rotation.
 - 📊 **Traffic statistics:** Real-time insights into server performance, including request rates, response times, and 
