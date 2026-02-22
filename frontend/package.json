@@ -58,9 +58,6 @@
         "build": "tsc && vite build",
         "check": "pnpm dlx prettier --check src && pnpm exec eslint src"
     },
-    "overrides": {
-        "minimatch": "^10.2.1"
-    },
     "browserslist": {
         "production": [
             ">0.2%",

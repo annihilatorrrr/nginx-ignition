@@ -1,3 +1,6 @@
 onlyBuiltDependencies:
     - "@bufbuild/buf"
     - esbuild
+
+overrides:
+    "minimatch": "^10.2.2"
